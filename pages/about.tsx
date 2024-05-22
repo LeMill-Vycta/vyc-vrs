@@ -17,8 +17,8 @@ export default function About() {
             VR technology with an intuitive e-commerce platform. Shop not only with the naked eye but amplify 
             your experience with VR glasses to navigate through our extensive product galleries as if you were
             there in person. From tech gadgets to home decor, our VR interface allows you to view products in 
-            lifelike detail and settings, ensuring your purchases are informed and just as you desire. Step 
-            into the new dimension of online retail with V Y C — where your shopping journey is just as extraordinary as our products.
+            lifelike detail and settings, ensuring your purchases are informed and just as you desire. <br/>
+            The 3D models used are freely licensed through <a href="https://clara.io/legal/content-guidelines" className="link dim white underline" >Clara.</a>
             A plus; the underlying infrastructure can handle peak time traffic with consistent fast
             performance. 
           </p>
