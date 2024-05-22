@@ -11,10 +11,16 @@ export default function About() {
             paradigm.
             <br />
             <br />
-            With a single command `npx vercel`, the store deploys instantly,
-            scales automatically, and requires zero supervision. The underlying
-            infrastructure can handle peak time traffic with consistent fast
-            performance.
+            Explore the future of shopping with V Y C Store, your premier virtual reality e-commerce store,
+            where innovation meets convenience in a truly immersive shopping experience. 
+            The idea behind the store is to transcend the boundaries of traditional online shopping by merging cutting-edge
+            VR technology with an intuitive e-commerce platform. Shop not only with the naked eye but amplify 
+            your experience with VR glasses to navigate through our extensive product galleries as if you were
+            there in person. From tech gadgets to home decor, our VR interface allows you to view products in 
+            lifelike detail and settings, ensuring your purchases are informed and just as you desire. Step 
+            into the new dimension of online retail with V Y C — where your shopping journey is just as extraordinary as our products.
+            A plus; the underlying infrastructure can handle peak time traffic with consistent fast
+            performance. 
           </p>
           <p className="lh-copy" />
           <p className="lh-copy">
